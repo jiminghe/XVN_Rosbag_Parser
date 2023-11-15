@@ -28,9 +28,14 @@ roscore
 
 
 ## Step 4, run the script
+```
 ./process_bag_files.sh
+```
 
 The files will be generated in the `log_files` folder.
+![Alt text](parse_xvn_bag_terminal.png)
+
+
 
 
 ## Step 5, Import the .kml to Google Earth Pro
