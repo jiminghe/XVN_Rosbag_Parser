@@ -1,5 +1,5 @@
 # dependancy:
-# pip install simplekml
+# pip3 install simplekml
 
 import csv
 import simplekml
